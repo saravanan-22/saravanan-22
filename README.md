@@ -7,9 +7,9 @@ Full Stack Developer
 "As a fresh graduate in full stack development, I bring a strong academic foundation, a passion for continuous learning, and a drive to excel in the fast-paced world of web development."
 
 * 🌍  I'm based in Tirupur
-* 🖥️  See my portfolio at [MyPortfolio](http://marvelous-panda-75af1b.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://aj-react-portfolio-udfz.vercel.app/)
 * ✉️  You can contact me at [rsaravanan0366@gmail.com](mailto:rsaravanan0366@gmail.com)
-* 🚀  I'm currently working on [E-Commerce App](http://e-commerce.com)
+* 🚀  I'm currently Searching job [Resume](file:///C:/Users/rsara/Downloads/resume.pdf)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Projects
 
