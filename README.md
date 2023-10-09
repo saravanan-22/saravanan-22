@@ -9,7 +9,7 @@ Full Stack Developer
 * 🌍  I'm based in Tirupur
 * 🖥️  See my portfolio at [MyPortfolio](https://aj-react-portfolio-udfz.vercel.app/)
 * ✉️  You can contact me at [rsaravanan0366@gmail.com](mailto:rsaravanan0366@gmail.com)
-* 🚀  I'm currently Searching job [Resume](file:///C:/Users/rsara/Downloads/resume.pdf)
+* 🚀  I'm currently Searching job
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Projects
 
