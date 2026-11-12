@@ -1,13 +1,13 @@
 # Hi, I'm Saravanan 👋
 
-<a href="https://aj-react-portfolio-udfz.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+work+%E2%80%94+let's+build+something!" alt="Typing intro" /></a>
+<a href="https://saravanan-22.github.io/react-portfolio/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+work+%E2%80%94+let's+build+something!" alt="Typing intro" /></a>
 
 **Full Stack Developer (MERN) · Tirupur, Tamil Nadu, India**
 
 I build full-stack web apps with **React, Node.js, Express and MongoDB**, from REST APIs and auth to responsive UIs deployed on Vercel and Netlify. I'm a fresh full-stack graduate who learns fast and ships working products.
 
 <p>
-  <a href="https://aj-react-portfolio-udfz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://saravanan-22.github.io/react-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/saravanan-r-903311265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rsaravanan0366@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open_to_work-22c55e?style=for-the-badge" alt="Open to work" />
@@ -30,7 +30,7 @@ I build full-stack web apps with **React, Node.js, Express and MongoDB**, from R
 | 🎬 **[Movie App](https://github.com/saravanan-22/movie-app-react)** | Movie & TV discovery with search, genres, trailers and Firebase auth | React · TMDB API · Firebase | [Live](https://aj-react-p2-movieapp.vercel.app/) · [Code](https://github.com/saravanan-22/movie-app-react) |
 | ❓ **[Open Question Database](https://github.com/saravanan-22/open-question-database)** | Community trivia question bank: add, browse and manage questions | React · Firebase · Firestore | [Live](https://openquestionsadddatabase.netlify.app/) · [Code](https://github.com/saravanan-22/open-question-database) |
 | ✅ **[MERN Task Planner](https://github.com/saravanan-22/mern-task-planner)** | Task manager with groups, images and active/completed tracking | React · Express · MongoDB | [Code](https://github.com/saravanan-22/mern-task-planner) |
-| 👨‍💻 **[Portfolio Website](https://github.com/saravanan-22/react-portfolio)** | My personal portfolio with projects, skills and a contact form | React · Bootstrap · EmailJS | [Live](https://aj-react-portfolio-udfz.vercel.app/) · [Code](https://github.com/saravanan-22/react-portfolio) |
+| 👨‍💻 **[Portfolio Website](https://github.com/saravanan-22/react-portfolio)** | My personal portfolio with projects, skills and a contact form | React · Bootstrap · EmailJS | [Live](https://saravanan-22.github.io/react-portfolio/) · [Code](https://github.com/saravanan-22/react-portfolio) |
 | ⚡ **[JavaScript Mini Projects](https://github.com/saravanan-22/javascript-mini-projects)** | 15 vanilla JS projects: calculator, games, clock, notes app and more | HTML · CSS · JavaScript | [Live](https://saravanan-22.github.io/javascript-mini-projects/) · [Code](https://github.com/saravanan-22/javascript-mini-projects) |
 
 📚 Learning repos: [JavaScript Fundamentals](https://github.com/saravanan-22/javascript-fundamentals) · [HTML & CSS Practice](https://github.com/saravanan-22/html-css-practice) · [Node & Express Practice](https://github.com/saravanan-22/node-express-practice) · [WhatsApp Clone](https://saravanan-22.github.io/whatsapp-landing-page-clone/)
