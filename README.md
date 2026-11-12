@@ -1,23 +1,33 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is saravanan
-=================================================================================================================================
+# Hi, I'm Saravanan 👋
 
-Full Stack Developer
---------------------
+### Full Stack Developer (MERN) · Tirupur, India
 
-"As a fresh graduate in full stack development, I bring a strong academic foundation, a passion for continuous learning, and a drive to excel in the fast-paced world of web development."
+I build full-stack web apps with **React, Node.js, Express and MongoDB**. I'm a fresh graduate in full-stack development with a strong foundation, a passion for continuous learning, and a drive to excel in web development.
 
-* 🌍  I'm based in Tirupur
-* 🖥️  See my portfolio at [MyPortfolio](https://aj-react-portfolio-udfz.vercel.app/)
-* ✉️  You can contact me at [rsaravanan0366@gmail.com](mailto:rsaravanan0366@gmail.com)
-* 🚀  I'm currently Searching job
-* 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on Projects
+- 🖥️ **Portfolio:** [aj-react-portfolio-udfz.vercel.app](https://aj-react-portfolio-udfz.vercel.app/)
+- 💼 **Open to work:** full-stack / frontend developer roles
+- 🧠 Currently learning: Go and advanced Node.js
+- 🤝 Open to collaborating on projects
+- ✉️ **Contact:** [rsaravanan0366@gmail.com](mailto:rsaravanan0366@gmail.com)
 
-<a href="https://www.github.com/saravanan-22" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/saravanan-22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+---
 
-### Skills
+### 🚀 Featured Projects
 
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 🧠 **[MERN Quiz App](https://github.com/saravanan-22/mern-quiz-app)** | Full-stack quiz game with 10 categories, user accounts and points tracking | React · Express · MongoDB | [Live](https://quizgame2023.vercel.app/) · [Code](https://github.com/saravanan-22/mern-quiz-app) |
+| 🎬 **[Movie App](https://github.com/saravanan-22/movie-app-react)** | Movie & TV discovery with search, genres, trailers and Firebase auth | React · TMDB API · Firebase | [Live](https://aj-react-p2-movieapp.vercel.app/) · [Code](https://github.com/saravanan-22/movie-app-react) |
+| ❓ **[Open Question Database](https://github.com/saravanan-22/open-question-database)** | Community trivia question bank: add, browse and manage questions | React · Firebase · Firestore | [Live](https://openquestionsadddatabase.netlify.app/) · [Code](https://github.com/saravanan-22/open-question-database) |
+| ✅ **[MERN Task Planner](https://github.com/saravanan-22/mern-task-planner)** | Task manager with groups, images and active/completed tracking | React · Express · MongoDB | [Code](https://github.com/saravanan-22/mern-task-planner) |
+| 👨‍💻 **[Portfolio Website](https://github.com/saravanan-22/react-portfolio)** | My personal portfolio with projects, skills and a contact form | React · Bootstrap · EmailJS | [Live](https://aj-react-portfolio-udfz.vercel.app/) · [Code](https://github.com/saravanan-22/react-portfolio) |
+| ⚡ **[JavaScript Mini Projects](https://github.com/saravanan-22/javascript-mini-projects)** | 15 vanilla JS projects: calculator, games, clock, notes app and more | HTML · CSS · JavaScript | [Live](https://saravanan-22.github.io/javascript-mini-projects/) · [Code](https://github.com/saravanan-22/javascript-mini-projects) |
+
+📚 Learning repos: [JavaScript Fundamentals](https://github.com/saravanan-22/javascript-fundamentals) · [HTML & CSS Practice](https://github.com/saravanan-22/html-css-practice) · [Node & Express Practice](https://github.com/saravanan-22/node-express-practice) · [Web Clones](https://github.com/saravanan-22/web-clones)
+
+---
+
+### 🛠️ Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -33,23 +43,18 @@ src="https://img.shields.io/github/followers/saravanan-22?logo=github&style=for-
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
-### Socials
+### 🌐 Connect
 
 <p align="left"> <a href="https://www.github.com/saravanan-22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saravanan-r-903311265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Stats
 
-<a href="http://www.github.com/saravanan-22"><img src="https://github-readme-stats.vercel.app/api?username=saravanan-22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saravanan-22's GitHub stats" /></a>
-
-<a href="http://www.github.com/saravanan-22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saravanan-22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/saravanan-22"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=saravanan-22&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/saravanan-22" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan-22&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saravanan-22&theme=github_dark" height="160" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saravanan-22&theme=github_dark" height="160" alt="Top languages" />
+</p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=saravanan-22&theme=dark&hide_border=true" alt="GitHub streak" />
+</p>
