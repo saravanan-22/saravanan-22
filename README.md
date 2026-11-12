@@ -1,14 +1,24 @@
 # Hi, I'm Saravanan 👋
 
-### Full Stack Developer (MERN) · Tirupur, India
+<a href="https://aj-react-portfolio-udfz.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Open+to+work+%E2%80%94+let's+build+something!" alt="Typing intro" /></a>
 
-I build full-stack web apps with **React, Node.js, Express and MongoDB**. I'm a fresh graduate in full-stack development with a strong foundation, a passion for continuous learning, and a drive to excel in web development.
+**Full Stack Developer (MERN) · Tirupur, Tamil Nadu, India**
 
-- 🖥️ **Portfolio:** [aj-react-portfolio-udfz.vercel.app](https://aj-react-portfolio-udfz.vercel.app/)
-- 💼 **Open to work:** full-stack / frontend developer roles
-- 🧠 Currently learning: Go and advanced Node.js
-- 🤝 Open to collaborating on projects
-- ✉️ **Contact:** [rsaravanan0366@gmail.com](mailto:rsaravanan0366@gmail.com)
+I build full-stack web apps with **React, Node.js, Express and MongoDB**, from REST APIs and auth to responsive UIs deployed on Vercel and Netlify. I'm a fresh full-stack graduate who learns fast and ships working products.
+
+<p>
+  <a href="https://aj-react-portfolio-udfz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/saravanan-r-903311265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rsaravanan0366@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Open_to_work-22c55e?style=for-the-badge" alt="Open to work" />
+</p>
+
+### 💡 What I bring
+- **Full-stack delivery:** I've built and deployed MERN apps end to end (React UI → Express REST API → MongoDB)
+- **Authentication & data:** Firebase Auth, Firestore, Mongoose models, protected user flows
+- **Clean, responsive UIs:** React, Material UI, Bootstrap, plus solid vanilla JS fundamentals (15+ mini projects)
+- **Deployment:** Vercel, Netlify and GitHub Pages
+- 🧠 Currently learning **Go** and advanced Node.js
 
 ---
 
@@ -23,7 +33,7 @@ I build full-stack web apps with **React, Node.js, Express and MongoDB**. I'm a 
 | 👨‍💻 **[Portfolio Website](https://github.com/saravanan-22/react-portfolio)** | My personal portfolio with projects, skills and a contact form | React · Bootstrap · EmailJS | [Live](https://aj-react-portfolio-udfz.vercel.app/) · [Code](https://github.com/saravanan-22/react-portfolio) |
 | ⚡ **[JavaScript Mini Projects](https://github.com/saravanan-22/javascript-mini-projects)** | 15 vanilla JS projects: calculator, games, clock, notes app and more | HTML · CSS · JavaScript | [Live](https://saravanan-22.github.io/javascript-mini-projects/) · [Code](https://github.com/saravanan-22/javascript-mini-projects) |
 
-📚 Learning repos: [JavaScript Fundamentals](https://github.com/saravanan-22/javascript-fundamentals) · [HTML & CSS Practice](https://github.com/saravanan-22/html-css-practice) · [Node & Express Practice](https://github.com/saravanan-22/node-express-practice) · [Web Clones](https://github.com/saravanan-22/web-clones)
+📚 Learning repos: [JavaScript Fundamentals](https://github.com/saravanan-22/javascript-fundamentals) · [HTML & CSS Practice](https://github.com/saravanan-22/html-css-practice) · [Node & Express Practice](https://github.com/saravanan-22/node-express-practice) · [WhatsApp Clone](https://saravanan-22.github.io/whatsapp-landing-page-clone/)
 
 ---
 
@@ -42,10 +52,6 @@ I build full-stack web apps with **React, Node.js, Express and MongoDB**. I'm a 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-
-### 🌐 Connect
-
-<p align="left"> <a href="https://www.github.com/saravanan-22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saravanan-r-903311265/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ---
 
