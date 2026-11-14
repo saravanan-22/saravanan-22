@@ -55,7 +55,7 @@ I'm a full-stack software engineer with **2+ years in FinTech**. I build a digit
 
 | Project | Description | Tech | Links |
 |---|---|---|---|
-| 🧠 **[MERN Quiz App](https://github.com/saravanan-22/mern-quiz-app)** | Full-stack quiz game with 10 categories, user accounts and points | React · Express · MongoDB | [Live](https://quizgame2023.vercel.app/) · [Code](https://github.com/saravanan-22/mern-quiz-app) |
+| 🧠 **[MERN Quiz App](https://github.com/saravanan-22/mern-quiz-app)** | Full-stack quiz game: 10 categories, bcrypt auth, points and a demo login | React · Express · MongoDB | [Live](https://saravanan-22.github.io/mern-quiz-app/) · [Code](https://github.com/saravanan-22/mern-quiz-app) |
 | 🎬 **[Movie App](https://github.com/saravanan-22/movie-app-react)** | Movie & TV discovery with search, genres, trailers and Firebase auth | React · TMDB API · Firebase | [Live](https://aj-react-p2-movieapp.vercel.app/) · [Code](https://github.com/saravanan-22/movie-app-react) |
 | ❓ **[Open Question Database](https://github.com/saravanan-22/open-question-database)** | Community trivia question bank | React · Firebase · Firestore | [Live](https://openquestionsadddatabase.netlify.app/) · [Code](https://github.com/saravanan-22/open-question-database) |
 | ✅ **[MERN Task Planner](https://github.com/saravanan-22/mern-task-planner)** | Task manager with groups and completion tracking | React · Express · MongoDB | [Code](https://github.com/saravanan-22/mern-task-planner) |
