@@ -33,7 +33,7 @@ I build full-stack web apps with **React, Node.js, Express and MongoDB**, from R
 | 👨‍💻 **[Portfolio Website](https://github.com/saravanan-22/react-portfolio)** | My personal portfolio with projects, skills and a contact form | React · Bootstrap · EmailJS | [Live](https://saravanan-22.github.io/react-portfolio/) · [Code](https://github.com/saravanan-22/react-portfolio) |
 | ⚡ **[JavaScript Mini Projects](https://github.com/saravanan-22/javascript-mini-projects)** | 15 vanilla JS projects: calculator, games, clock, notes app and more | HTML · CSS · JavaScript | [Live](https://saravanan-22.github.io/javascript-mini-projects/) · [Code](https://github.com/saravanan-22/javascript-mini-projects) |
 
-📚 Learning repos: [JavaScript Fundamentals](https://github.com/saravanan-22/javascript-fundamentals) · [HTML & CSS Practice](https://github.com/saravanan-22/html-css-practice) · [Node & Express Practice](https://github.com/saravanan-22/node-express-practice) · [WhatsApp Clone](https://saravanan-22.github.io/whatsapp-landing-page-clone/)
+🌐 Also live: [WhatsApp Landing Page Clone](https://saravanan-22.github.io/whatsapp-landing-page-clone/)
 
 ---
 
