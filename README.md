@@ -1,10 +1,12 @@
 # Hi, I'm Saravanan 👋
 
-<a href="https://saravanan-22.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&width=640&lines=Full-Stack+Developer+%C2%B7+FinTech;Go+(Fiber)+%7C+React+%7C+TypeScript;Building+digital+lending+platforms;Open+to+work+%E2%80%94+on-site%2C+hybrid+or+remote" alt="Typing intro" /></a>
+<a href="https://saravanan-22.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0891B2&width=640&lines=Full-Stack+Developer+%C2%B7+FinTech;Go+%7C+Python+%7C+React+%7C+TypeScript;Built+LendOCR%3A+an+OCR+API+for+Indian+lending;Open+to+work+%E2%80%94+on-site%2C+hybrid+or+remote" alt="Typing intro" /></a>
 
 **Full-Stack Developer · FinTech & Digital Lending · Tiruppur, Tamil Nadu, India**
 
 I'm a full-stack software engineer with **2+ years in FinTech**. I build a digital lending platform used by banks, NBFCs and their partner agents, covering both the React screens people use every day and the **Go** back end that stores data, applies business rules and produces reports. I also work directly with clients and with finance and operations teams.
+
+On my own time I built **[LendOCR](https://saravanan-22.github.io/lendocr-website/)**, a production-style OCR API that reads 14 Indian KYC and loan documents into validated JSON, with GPU OCR, API keys, rate limits, background jobs, signed webhooks and monitoring.
 
 <p>
   <a href="https://saravanan-22.github.io/"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -30,15 +32,16 @@ I'm a full-stack software engineer with **2+ years in FinTech**. I build a digit
 ### 🛠️ Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,ts,js,react,tailwind,nodejs,express,mysql,redis,mongodb,aws,docker,git,bitbucket&perline=14" alt="Go, TypeScript, JavaScript, React, Tailwind, Node.js, Express, MySQL, Redis, MongoDB, AWS, Docker, Git, Bitbucket" />
+  <img src="https://skillicons.dev/icons?i=go,python,ts,js,react,tailwind,nodejs,express,fastapi,mysql,postgres,redis,mongodb,aws,docker,nginx,prometheus,grafana,githubactions,git&perline=10" alt="Go, Python, TypeScript, JavaScript, React, Tailwind, Node.js, Express, FastAPI, MySQL, PostgreSQL, Redis, MongoDB, AWS, Docker, nginx, Prometheus, Grafana, GitHub Actions, Git" />
 </p>
 
 | Area | Skills |
 |---|---|
-| **Languages** | Go (Golang) · TypeScript · JavaScript · SQL · HTML / CSS |
+| **Languages** | Go (Golang) · Python · TypeScript · JavaScript · SQL · HTML / CSS |
 | **Front end** | React · TypeScript · Tailwind CSS · Shadcn UI · Config-driven forms · Monorepo setup |
-| **Back end** | Go Fiber · REST APIs · MySQL · Redis · Node.js / Express · MongoDB |
-| **Cloud & tools** | AWS S3 · AWS SES · Docker · Git · Bitbucket |
+| **Back end** | Go Fiber · FastAPI · REST APIs · MySQL · PostgreSQL · Redis · Node.js / Express · MongoDB |
+| **AI / OCR** | RapidOCR (PP-OCR) · PaddleOCR-VL · vLLM · ONNX Runtime GPU · PDF parsing |
+| **Cloud & tools** | AWS S3 · AWS SES · Docker · nginx · Prometheus / Grafana · GitHub Actions · Git · Bitbucket |
 | **Integrations** | AI / OCR document reading · PDF reports · Excel export · Credit bureau data · Lender APIs · eSign · Email & SMS APIs |
 | **Lending domain** | Loan origination · KYC checks · Credit appraisal (CAM) · GST & tax return data · Collections · Partner commission & GST |
 
@@ -48,8 +51,8 @@ I'm a full-stack software engineer with **2+ years in FinTech**. I build a digit
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| 🌐 **[Developer Portfolio](https://github.com/saravanan-22/saravanan-22.github.io)** | My portfolio: interactive 3D background, physics skill jar, animated FinTech case study | Next.js 16 · React 19 · TypeScript · Three.js · GSAP | [Live](https://saravanan-22.github.io/) · [Code](https://github.com/saravanan-22/saravanan-22.github.io) |
-| 📄 **LoanDocs** *(in progress)* | Free, self-hosted OCR + PDF toolkit for Indian lending: reads KYC documents, cross-matches them, generates loan letters and calculates EMIs | Go Fiber · PaddleOCR · React · Docker | Coming soon |
+| 📄 **LendOCR** | OCR API for Indian KYC and loan documents: 14 document types, checksum validation, bank statement analysis, API keys and quotas, background jobs with signed webhooks, Prometheus monitoring. 160 tests in CI | Python · FastAPI · RapidOCR · PaddleOCR-VL · vLLM · PostgreSQL · Docker · nginx | [Website](https://saravanan-22.github.io/lendocr-website/) · [Site code](https://github.com/saravanan-22/lendocr-website) · API code private |
+| 🌐 **[Developer Portfolio](https://github.com/saravanan-22/saravanan-22.github.io)** | My portfolio: interactive 3D background, physics skill jar, animated LendOCR case study | Next.js 16 · React 19 · TypeScript · Three.js · GSAP | [Live](https://saravanan-22.github.io/) · [Code](https://github.com/saravanan-22/saravanan-22.github.io) |
 
 ### 🧩 Earlier projects (MERN)
 
