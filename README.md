@@ -15,6 +15,30 @@ On my own time I built **[LendOCR](https://saravanan-22.github.io/lendocr-websit
   <img src="https://img.shields.io/badge/Open_to_work-22c55e?style=for-the-badge" alt="Open to work" />
 </p>
 
+### ⭐ Primary project: LendOCR
+
+**An OCR API for Indian KYC and loan documents.** Send a photo or PDF of a PAN, Aadhaar, bank statement, cheque, bill, ITR or salary slip and get checked, structured JSON back in about 0.2 seconds, with a flag when a person should review it.
+
+<p>
+  <a href="https://saravanan-22.github.io/lendocr-website/"><img src="https://img.shields.io/badge/Live_website-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live website" /></a>
+  <a href="https://github.com/saravanan-22/lendocr-website"><img src="https://img.shields.io/badge/Website_code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Website code" /></a>
+  <a href="https://saravanan-22.github.io/#work"><img src="https://img.shields.io/badge/Case_study-d8a657?style=for-the-badge&logoColor=white" alt="Case study on my portfolio" /></a>
+</p>
+
+- **14 Indian documents** with auto type detection; digital, scanned and password-protected PDFs
+- **Validation, not just OCR:** Aadhaar Verhoeff, GSTIN mod-36, passport MRZ check digits, PAN / DL / IFSC formats
+- **Bank statement analysis:** salary, EMIs, cheque bounces, average balance and a row-by-row tamper check
+- **Two OCR tiers:** RapidOCR on the GPU (~0.15 s per card) and PaddleOCR-VL on vLLM for hard images
+- **Sold as an API:** hashed API keys with scopes, rate limits shared through Postgres, quotas, usage metering, admin API
+- **Built to scale:** backpressure, batch uploads, nginx load balancer, Postgres job queue, encrypted files, signed webhooks
+- **Operated like production:** Prometheus metrics, Grafana dashboard, alert rules, 160 tests in GitHub Actions
+
+`Python` `FastAPI` `PostgreSQL` `RapidOCR` `PaddleOCR-VL` `vLLM` `Docker` `nginx` `Prometheus` `Grafana`
+
+> The API code is in a private repository because LendOCR is a commercial product. I'm happy to walk through it in an interview.
+
+---
+
 ### 💼 Experience
 
 **Full Stack Developer · Inforvio Technologies** · Sep 2024 – Present · FinTech
@@ -51,7 +75,7 @@ On my own time I built **[LendOCR](https://saravanan-22.github.io/lendocr-websit
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| 📄 **LendOCR** | OCR API for Indian KYC and loan documents: 14 document types, checksum validation, bank statement analysis, API keys and quotas, background jobs with signed webhooks, Prometheus monitoring. 160 tests in CI | Python · FastAPI · RapidOCR · PaddleOCR-VL · vLLM · PostgreSQL · Docker · nginx | [Website](https://saravanan-22.github.io/lendocr-website/) · [Site code](https://github.com/saravanan-22/lendocr-website) · API code private |
+| ⭐ **LendOCR** *(primary project)* | OCR API for Indian KYC and loan documents: 14 document types, checksum validation, bank statement analysis, API keys and quotas, background jobs with signed webhooks, Prometheus monitoring. 160 tests in CI | Python · FastAPI · RapidOCR · PaddleOCR-VL · vLLM · PostgreSQL · Docker · nginx | [Website](https://saravanan-22.github.io/lendocr-website/) · [Site code](https://github.com/saravanan-22/lendocr-website) · API code private |
 | 🌐 **[Developer Portfolio](https://github.com/saravanan-22/saravanan-22.github.io)** | My portfolio: interactive 3D background, skill-card deck, animated LendOCR case study | Next.js 16 · React 19 · TypeScript · Three.js · GSAP | [Live](https://saravanan-22.github.io/) · [Code](https://github.com/saravanan-22/saravanan-22.github.io) |
 
 ### 🧩 Earlier projects (MERN)
