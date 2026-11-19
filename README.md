@@ -17,6 +17,25 @@ On my own time I built **[LendOCR](https://saravanan-22.github.io/lendocr-websit
 
 ### 🚀 Core Flagship Projects
 
+#### 🏛️ [eNACH & e-Mandate Automation Engine](https://github.com/saravanan-22/enach-mandate-service)
+**Enterprise NPCI Recurring Repayment & Clearing Microservice for Digital Lending.**
+Automates borrower auto-debit consent, clearing settlement, and regulatory compliance without third-party aggregator markups:
+- **Multi-Mode Mandate Authentication**: Supports Net Banking, Debit Card + OTP, Aadhaar OTP (UIDAI e-Sign), and UPI AutoPay (MPIN).
+- **20-Digit UMRN Lifecycle**: Automatic Unique Mandate Reference Number issuance via NPCI ONMAGS switch, tracking status transitions from creation to active settlement and revocation.
+- **Mandatory RBI 24-Hour Pre-Debit Compliance**: Automated SMS/Email notification pipeline enforcing the RBI recurring payments framework prior to presentation.
+- **Clearing Batches & Presentation Engine**: Scheduled daily clearing runs aggregating loan EMIs due on date $T$ for Sponsor Bank settlement.
+- **NPCI Return Matrix & Recovery Engine**: Automatic retry presentation scheduler for `AM04` (Insufficient Funds) after 3 days, plus fraud/cancellation escalation for `AC01` and `MD01`.
+
+`TypeScript` `Node.js` `Express` `Zod` `NPCI ONMAGS` `RBI-Compliance` `FinTech` `Docker`
+
+<p>
+  <a href="https://github.com/saravanan-22/enach-mandate-service"><img src="https://img.shields.io/badge/Repository-0284c7?style=for-the-badge&logo=github&logoColor=white" alt="eNACH Repository" /></a>
+  <img src="https://img.shields.io/badge/Tests-15%2F15_Passing-brightgreen?style=for-the-badge" alt="Tests" />
+  <img src="https://img.shields.io/badge/Status-Active_Core_Project-22c55e?style=for-the-badge" alt="Active" />
+</p>
+
+---
+
 #### ⚡ [FinGrid Document & Underwriting Engine](https://github.com/saravanan-22/fingrid-doc-engine)
 **Unified Document Generation, Multi-Party eSign, BSA & Credit Underwriting Platform.**
 Replaces multiple third-party SaaS tools (Glib.ai, Perfios, Digio, DocuSign, Aggregators) with an in-house lending microservice:
