@@ -15,8 +15,28 @@ On my own time I built **[LendOCR](https://saravanan-22.github.io/lendocr-websit
   <img src="https://img.shields.io/badge/Open_to_work-22c55e?style=for-the-badge" alt="Open to work" />
 </p>
 
-### ⭐ Primary project: LendOCR
+### ⭐ Primary Flagship Projects
 
+#### ⚡ [FinGrid Document & Underwriting Engine](https://github.com/saravanan-22/fingrid-doc-engine)
+**Unified Document Generation, Multi-Party eSign, BSA & Credit Underwriting Platform.**
+Replaces multiple third-party SaaS tools (Glib.ai, Perfios, Digio, DocuSign, Aggregators) with an in-house lending microservice:
+- **Dynamic Financial Document Engine**: Print-perfect vector PDF generation for Credit Appraisal Memos (CAM), Audited P&L Statements, Sanction Letters (KFS), and Loan Closure NOCs with zero backend layout code.
+- **In-House Bank Statement Analysis (BSA)**: Replaces Glib.ai with Indian banking narration regex classification, Average Monthly Balance (AMB) computation, EOD milestone tracking (5th, 10th, 15th, 20th), outward bounce radar, and un-reported loan discovery.
+- **Credit Bureau Engine (CIBIL & Experian)**: Legacy 36-month DPD string decoder (`000`, `030`, `SMA`, `NPA`), CMR ranking, leverage analysis, and derogatory knockout flags.
+- **Tax & GST Triangulation**: Multi-year ITR analysis, 12-month GSTR-3B Table 3.1a outward supplies & cash tax ratio, with automated 3-way reconciliation (GST vs Banking vs ITR) to catch circular trading.
+- **Multi-Party eSign Pipeline**: Pluggable interface for Indian Aadhaar eSign (Digio, Leegality), Class 3 USB DSC, DocuSign, and an in-browser mock simulator with full audit trail.
+
+`TypeScript` `Node.js` `Gotenberg` `Handlebars` `Express` `Zod` `Docker` `FinTech`
+
+<p>
+  <a href="https://github.com/saravanan-22/fingrid-doc-engine"><img src="https://img.shields.io/badge/Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="FinGrid Repository" /></a>
+  <img src="https://img.shields.io/badge/Tests-29%2F29_Passing-brightgreen?style=for-the-badge" alt="Tests" />
+  <img src="https://img.shields.io/badge/Status-Active_Core_Project-22c55e?style=for-the-badge" alt="Active" />
+</p>
+
+---
+
+#### 🔍 LendOCR
 **An OCR API for Indian KYC and loan documents.** Send a photo or PDF of a PAN, Aadhaar, bank statement, cheque, bill, ITR or salary slip and get checked, structured JSON back in about 0.2 seconds, with a flag when a person should review it.
 
 <p>
@@ -75,7 +95,8 @@ On my own time I built **[LendOCR](https://saravanan-22.github.io/lendocr-websit
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| ⭐ **LendOCR** *(primary project)* | OCR API for Indian KYC and loan documents: 14 document types, checksum validation, bank statement analysis, API keys and quotas, background jobs with signed webhooks, Prometheus monitoring. 160 tests in CI | Python · FastAPI · RapidOCR · PaddleOCR-VL · vLLM · PostgreSQL · Docker · nginx | [Website](https://saravanan-22.github.io/lendocr-website/) · [Site code](https://github.com/saravanan-22/lendocr-website) · API code private |
+| ⚡ **[FinGrid Doc Engine](https://github.com/saravanan-22/fingrid-doc-engine)** *(primary project)* | Unified dynamic document generator (CAM, P&L, NOC), multi-party eSign pipeline (Aadhaar/DSC/DocuSign), in-house BSA (replacing Glib.ai), CIBIL 36m DPD parser, and 3-way tax triangulation (GST vs Banking vs ITR). 29 tests in CI | TypeScript · Node.js · Handlebars · Gotenberg · Express · Zod · Docker | [Code & Docs](https://github.com/saravanan-22/fingrid-doc-engine) |
+| ⭐ **LendOCR** | OCR API for Indian KYC and loan documents: 14 document types, checksum validation, bank statement analysis, API keys and quotas, background jobs with signed webhooks, Prometheus monitoring. 160 tests in CI | Python · FastAPI · RapidOCR · PaddleOCR-VL · vLLM · PostgreSQL · Docker · nginx | [Website](https://saravanan-22.github.io/lendocr-website/) · [Site code](https://github.com/saravanan-22/lendocr-website) · API code private |
 | 🌐 **[Developer Portfolio](https://github.com/saravanan-22/saravanan-22.github.io)** | My portfolio: interactive 3D background, skill-card deck, animated LendOCR case study | Next.js 16 · React 19 · TypeScript · Three.js · GSAP | [Live](https://saravanan-22.github.io/) · [Code](https://github.com/saravanan-22/saravanan-22.github.io) |
 
 ### 🧩 Earlier projects (MERN)
