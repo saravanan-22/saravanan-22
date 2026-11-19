@@ -36,6 +36,25 @@ Replaces multiple third-party SaaS tools (Glib.ai, Perfios, Digio, DocuSign, Agg
 
 ---
 
+#### 🛡️ [TrustID — Video KYC & Anti-Deepfake Verification Service](https://github.com/saravanan-22/trustid-vkyc-service)
+**Bank-grade Video KYC & Anti-Deepfake API for Digital Lending & Identity Verification (V-KYC).**
+Replaces expensive IDV vendors (Jumio, Veriff, Onfido) with a high-throughput, self-hosted Computer Vision microservice:
+- **1:1 Biometric Face Match**: Compares live video selfie frames against extracted ID card portraits (Aadhaar, PAN, Passport).
+- **2D FFT Deepfake & Virtual Camera Detection**: Spots synthetic facial manipulation, GAN artifacts, screen replay attacks, and virtual camera injections (OBS Studio) in the spectral frequency domain.
+- **Active Challenge-Response Liveness**: Randomized behavioral challenges (head yaw turns, eye blink detection, smile tracking) achieving 99.2% anti-spoof accuracy.
+- **Document Tamper & Sharpness Engine**: Evaluates ID image blur, glare, and resolution, isolating ID portrait crops automatically.
+- **Cryptographic Audit Dossiers**: Generates verifiable SHA-256 HMAC-signed audit certificates for RBI, FATF, and SOC2 compliance.
+
+`Python` `FastAPI` `OpenCV` `Computer Vision` `Docker` `Biometrics` `RBI-Compliance`
+
+<p>
+  <a href="https://github.com/saravanan-22/trustid-vkyc-service"><img src="https://img.shields.io/badge/Repository-5C3EE8?style=for-the-badge&logo=github&logoColor=white" alt="TrustID Repository" /></a>
+  <img src="https://img.shields.io/badge/Tests-17%20Passed-brightgreen?style=for-the-badge" alt="Tests" />
+  <img src="https://img.shields.io/badge/Compliance-RBI%20%7C%20FATF-orange?style=for-the-badge" alt="Compliance" />
+</p>
+
+---
+
 #### 🔍 LendOCR
 **An OCR API for Indian KYC and loan documents.** Send a photo or PDF of a PAN, Aadhaar, bank statement, cheque, bill, ITR or salary slip and get checked, structured JSON back in about 0.2 seconds, with a flag when a person should review it.
 
@@ -84,10 +103,10 @@ Replaces multiple third-party SaaS tools (Glib.ai, Perfios, Digio, DocuSign, Agg
 | **Languages** | Go (Golang) · Python · TypeScript · JavaScript · SQL · HTML / CSS |
 | **Front end** | React · TypeScript · Tailwind CSS · Shadcn UI · Config-driven forms · Monorepo setup |
 | **Back end** | Go Fiber · FastAPI · REST APIs · MySQL · PostgreSQL · Redis · Node.js / Express · MongoDB |
-| **AI / OCR** | RapidOCR (PP-OCR) · PaddleOCR-VL · vLLM · ONNX Runtime GPU · PDF parsing |
+| **AI / OCR** | RapidOCR (PP-OCR) · PaddleOCR-VL · vLLM · ONNX Runtime GPU · PDF parsing · Computer Vision · OpenCV · Deepfake Detection (2D FFT) |
 | **Cloud & tools** | AWS S3 · AWS SES · Docker · nginx · Prometheus / Grafana · GitHub Actions · Git · Bitbucket |
-| **Integrations** | AI / OCR document reading · PDF reports · Excel export · Credit bureau data · Lender APIs · eSign · Email & SMS APIs |
-| **Lending domain** | Loan origination · KYC checks · Credit appraisal (CAM) · GST & tax return data · Collections · Partner commission & GST |
+| **Integrations** | Video KYC (V-KYC) · AI / OCR document reading · PDF reports · Excel export · Credit bureau data · Lender APIs · eSign · Email & SMS APIs |
+| **Lending domain** | Loan origination · Video KYC (VKYC) & liveness · KYC checks · Credit appraisal (CAM) · GST & tax return data · Collections · Partner commission & GST |
 
 ---
 
@@ -96,6 +115,7 @@ Replaces multiple third-party SaaS tools (Glib.ai, Perfios, Digio, DocuSign, Agg
 | Project | What it is | Tech | Links |
 |---|---|---|---|
 | ⚡ **[FinGrid Doc Engine](https://github.com/saravanan-22/fingrid-doc-engine)** *(primary project)* | Unified dynamic document generator (CAM, P&L, NOC), multi-party eSign pipeline (Aadhaar/DSC/DocuSign), in-house BSA (replacing Glib.ai), CIBIL 36m DPD parser, and 3-way tax triangulation (GST vs Banking vs ITR). 29 tests in CI | TypeScript · Node.js · Handlebars · Gotenberg · Express · Zod · Docker | [Code & Docs](https://github.com/saravanan-22/fingrid-doc-engine) |
+| 🛡️ **[TrustID Video KYC](https://github.com/saravanan-22/trustid-vkyc-service)** | Bank-grade Video KYC verification API: 1:1 biometric match, 2D FFT deepfake & virtual camera detection, active liveness challenges, and SHA-256 HMAC audit dossiers for RBI compliance. 17 tests in CI | Python · FastAPI · OpenCV · Computer Vision · Docker | [Code & Docs](https://github.com/saravanan-22/trustid-vkyc-service) |
 | ⭐ **LendOCR** | OCR API for Indian KYC and loan documents: 14 document types, checksum validation, bank statement analysis, API keys and quotas, background jobs with signed webhooks, Prometheus monitoring. 160 tests in CI | Python · FastAPI · RapidOCR · PaddleOCR-VL · vLLM · PostgreSQL · Docker · nginx | [Website](https://saravanan-22.github.io/lendocr-website/) · [Site code](https://github.com/saravanan-22/lendocr-website) · API code private |
 | 🌐 **[Developer Portfolio](https://github.com/saravanan-22/saravanan-22.github.io)** | My portfolio: interactive 3D background, skill-card deck, animated LendOCR case study | Next.js 16 · React 19 · TypeScript · Three.js · GSAP | [Live](https://saravanan-22.github.io/) · [Code](https://github.com/saravanan-22/saravanan-22.github.io) |
 
