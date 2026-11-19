@@ -15,7 +15,7 @@ On my own time I built **[LendOCR](https://saravanan-22.github.io/lendocr-websit
   <img src="https://img.shields.io/badge/Open_to_work-22c55e?style=for-the-badge" alt="Open to work" />
 </p>
 
-### ⭐ Primary Flagship Projects
+### 🚀 Core Flagship Projects
 
 #### ⚡ [FinGrid Document & Underwriting Engine](https://github.com/saravanan-22/fingrid-doc-engine)
 **Unified Document Generation, Multi-Party eSign, BSA & Credit Underwriting Platform.**
@@ -114,7 +114,7 @@ Replaces expensive IDV vendors (Jumio, Veriff, Onfido) with a high-throughput, s
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
-| ⚡ **[FinGrid Doc Engine](https://github.com/saravanan-22/fingrid-doc-engine)** *(primary project)* | Unified dynamic document generator (CAM, P&L, NOC), multi-party eSign pipeline (Aadhaar/DSC/DocuSign), in-house BSA (replacing Glib.ai), CIBIL 36m DPD parser, and 3-way tax triangulation (GST vs Banking vs ITR). 29 tests in CI | TypeScript · Node.js · Handlebars · Gotenberg · Express · Zod · Docker | [Code & Docs](https://github.com/saravanan-22/fingrid-doc-engine) |
+| ⚡ **[FinGrid Doc Engine](https://github.com/saravanan-22/fingrid-doc-engine)** | Unified dynamic document generator (CAM, P&L, NOC), multi-party eSign pipeline (Aadhaar/DSC/DocuSign), in-house BSA (replacing Glib.ai), CIBIL 36m DPD parser, and 3-way tax triangulation (GST vs Banking vs ITR). 29 tests in CI | TypeScript · Node.js · Handlebars · Gotenberg · Express · Zod · Docker | [Code & Docs](https://github.com/saravanan-22/fingrid-doc-engine) |
 | 🛡️ **[TrustID Video KYC](https://github.com/saravanan-22/trustid-vkyc-service)** | Bank-grade Video KYC verification API: 1:1 biometric match, 2D FFT deepfake & virtual camera detection, active liveness challenges, and SHA-256 HMAC audit dossiers for RBI compliance. 17 tests in CI | Python · FastAPI · OpenCV · Computer Vision · Docker | [Code & Docs](https://github.com/saravanan-22/trustid-vkyc-service) |
 | ⭐ **LendOCR** | OCR API for Indian KYC and loan documents: 14 document types, checksum validation, bank statement analysis, API keys and quotas, background jobs with signed webhooks, Prometheus monitoring. 160 tests in CI | Python · FastAPI · RapidOCR · PaddleOCR-VL · vLLM · PostgreSQL · Docker · nginx | [Website](https://saravanan-22.github.io/lendocr-website/) · [Site code](https://github.com/saravanan-22/lendocr-website) · API code private |
 | 🌐 **[Developer Portfolio](https://github.com/saravanan-22/saravanan-22.github.io)** | My portfolio: interactive 3D background, skill-card deck, animated LendOCR case study | Next.js 16 · React 19 · TypeScript · Three.js · GSAP | [Live](https://saravanan-22.github.io/) · [Code](https://github.com/saravanan-22/saravanan-22.github.io) |
