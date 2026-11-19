@@ -17,6 +17,25 @@ On my own time I built **[LendOCR](https://saravanan-22.github.io/lendocr-websit
 
 ### 🚀 Core Flagship Projects
 
+#### 🇮🇳 [eKYC Verification Microservice](https://github.com/saravanan-22/ekyc-verification-service)
+**Enterprise Indian eKYC & Identity Intelligence Platform for Digital Lending.**
+Replaces expensive KYC aggregators (Karza, Setu, Signzy, IDfy) with a self-hosted compliance microservice:
+- **Aadhaar OTP & Verhoeff Validation**: UIDAI-compliant OTP authentication, rejecting spoofed Aadhaar numbers via client/server Verhoeff checksums and enforcing customer consent.
+- **Statutory Masked Aadhaar Vault**: AES-256-GCM encrypted Aadhaar vault issuing persistent reference tokens (`ART_...`) and exposing strictly masked Aadhaar numbers (`XXXXXXXX1234`).
+- **Real-Time PAN (NSDL / ITD) & 139AA**: Instant PAN operative status verification, entity categorization (`P`, `C`, `F`, `H`), and mandatory Aadhaar-PAN seeding checks.
+- **Token-Sort & Jaro-Winkler Fuzzy Matcher**: Tailored for Indian name variations, resolving inverted names (e.g. "Ramachandran Kavitha" vs "Kavitha Ramachandran" -> 100% match) and titles.
+- **₹1.00 IMPS Penny Drop & CKYC (CERSAI)**: Bank account activity verification retrieving live CBS beneficiary name, plus Central KYC 14-digit KIN retrieval.
+
+`TypeScript` `Node.js` `Express` `Zod` `UIDAI` `NSDL` `CERSAI` `Aadhaar-Vault` `FinTech` `Docker`
+
+<p>
+  <a href="https://github.com/saravanan-22/ekyc-verification-service"><img src="https://img.shields.io/badge/Repository-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="eKYC Repository" /></a>
+  <img src="https://img.shields.io/badge/Tests-24%2F24_Passing-brightgreen?style=for-the-badge" alt="Tests" />
+  <img src="https://img.shields.io/badge/Status-Active_Core_Project-22c55e?style=for-the-badge" alt="Active" />
+</p>
+
+---
+
 #### 🏛️ [eNACH & e-Mandate Automation Engine](https://github.com/saravanan-22/enach-mandate-service)
 **Enterprise NPCI Recurring Repayment & Clearing Microservice for Digital Lending.**
 Automates borrower auto-debit consent, clearing settlement, and regulatory compliance without third-party aggregator markups:
